@@ -14,8 +14,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.1.0",
-        "topthink/framework": "5.1.*"
+        "php": ">=7.1.0"
     },
     "autoload": {
         "psr-4": {
