@@ -1,12 +1,12 @@
 <?php
-namespace Cstopery\EasyTaoKe\TaoBao\Request;
+namespace ShoppingApi\TaoBao\Request;
 /**
  * TOP API: taobao.tbk.order.get request
  * 
  * @author auto create
  * @since 1.0, 2018.09.20
  */
-use Cstopery\EasyTaoKe\TaoBao\RequestCheckUtil;
+use ShoppingApi\TaoBao\RequestCheckUtil;
 class TbkOrderGetRequest
 {
 	/** 

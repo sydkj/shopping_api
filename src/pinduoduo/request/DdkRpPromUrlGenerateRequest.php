@@ -5,9 +5,9 @@
  * Date: 2018/11/20
  * Time: 下午6:45
  */
-namespace Cstopery\EasyTaoKe\PinDuoDuo\Request;
+namespace ShoppingApi\PinDuoDuo\Request;
 
-use Cstopery\EasyTaoKe\PinDuoDuo\RequestInterface;
+use ShoppingApi\PinDuoDuo\RequestInterface;
 
 
 class DdkRpPromUrlGenerateRequest  implements RequestInterface

@@ -6,9 +6,9 @@
  * Time: 下午6:45
  */
 
-namespace Cstopery\EasyTaoKe\PinDuoDuo\Request;
+namespace ShoppingApi\PinDuoDuo\Request;
 
-use Cstopery\EasyTaoKe\PinDuoDuo\RequestInterface;
+use ShoppingApi\PinDuoDuo\RequestInterface;
 
 
 class DdkLotteryUrlGenRequest implements RequestInterface

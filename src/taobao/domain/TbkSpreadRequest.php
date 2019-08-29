@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe\TaoBao\Domain;
+namespace ShoppingApi\TaoBao\Domain;
 
 /**
  * 请求列表，内部包含多个url

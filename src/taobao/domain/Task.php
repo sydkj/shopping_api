@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe\TaoBao\Domain;
+namespace ShoppingApi\TaoBao\Domain;
 
 /**
  * 批量异步任务结果

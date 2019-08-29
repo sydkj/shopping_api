@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe;
+namespace ShoppingApi;
 
 use Illuminate\Foundation\Application as LaravelApplication;
 use Laravel\Lumen\Application as LumenApplication;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe\TaoBao\Request;
+namespace ShoppingApi\TaoBao\Request;
 
 /**
  * TOP API: taobao.hotel.order.get request

@@ -1,7 +1,7 @@
 <?php
-namespace Cstopery\EasyTaoKe\TaoBao\Request;
+namespace ShoppingApi\TaoBao\Request;
 
-use Cstopery\EasyTaoKe\TaoBao\RequestCheckUtil;
+use ShoppingApi\TaoBao\RequestCheckUtil;
 /**
  * TOP API: taobao.tbk.sc.invitecode.get request
  * 

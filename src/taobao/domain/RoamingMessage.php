@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe\TaoBao\Domain;
+namespace ShoppingApi\TaoBao\Domain;
 
 /**
  * 漫游消息

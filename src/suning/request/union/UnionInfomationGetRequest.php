@@ -6,10 +6,10 @@
  * @date   2016-1-27
  */
 
-namespace Cstopery\EasyTaoKe\SuNing\Request\Union;
+namespace ShoppingApi\SuNing\Request\Union;
 
-use Cstopery\EasyTaoKe\SuNing\SuningRequest;
-use Cstopery\EasyTaoKe\SuNing\RequestCheckUtil;
+use ShoppingApi\SuNing\SuningRequest;
+use ShoppingApi\SuNing\RequestCheckUtil;
 
 class UnionInfomationGetRequest extends SuningRequest
 {

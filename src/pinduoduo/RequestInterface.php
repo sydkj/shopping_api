@@ -6,7 +6,7 @@
  * Time: 15:43
  */
 
-namespace Cstopery\EasyTaoKe\PinDuoDuo;
+namespace ShoppingApi\PinDuoDuo;
 
 
 interface RequestInterface

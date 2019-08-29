@@ -6,10 +6,10 @@
  * @date   2019-4-23
  */
 
-namespace Cstopery\EasyTaoKe\SuNing\Request\Netalliance;
+namespace ShoppingApi\SuNing\Request\Netalliance;
 
-use Cstopery\EasyTaoKe\SuNing\SuningRequest;
-use Cstopery\EasyTaoKe\SuNing\RequestCheckUtil;
+use ShoppingApi\SuNing\SuningRequest;
+use ShoppingApi\SuNing\RequestCheckUtil;
 
 class CustompromotionurlQueryRequest extends SuningRequest
 {

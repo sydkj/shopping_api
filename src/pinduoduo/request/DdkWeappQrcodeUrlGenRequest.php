@@ -5,9 +5,9 @@
  * Date: 2018/11/19
  * Time: 下午3:03
  */
-namespace Cstopery\EasyTaoKe\PinDuoDuo\Request;
+namespace ShoppingApi\PinDuoDuo\Request;
 
-use Cstopery\EasyTaoKe\PinDuoDuo\RequestInterface;
+use ShoppingApi\PinDuoDuo\RequestInterface;
 
 
 class DdkWeappQrcodeUrlGenRequest implements RequestInterface

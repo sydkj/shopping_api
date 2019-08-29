@@ -6,10 +6,10 @@
  * @date   2014-10-16
  */
 
-namespace Cstopery\EasyTaoKe\SuNing\Request\NetallianceTx;
+namespace ShoppingApi\SuNing\Request\NetallianceTx;
 
-use Cstopery\EasyTaoKe\SuNing\SelectSuningRequest;
-use Cstopery\EasyTaoKe\SuNing\RequestCheckUtil;
+use ShoppingApi\SuNing\SelectSuningRequest;
+use ShoppingApi\SuNing\RequestCheckUtil;
 
 class QueryNetallianceOrderRequest extends SelectSuningRequest
 {

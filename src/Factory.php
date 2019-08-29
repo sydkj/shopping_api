@@ -1,11 +1,11 @@
 <?php
 
-namespace Cstopery\EasyTaoKe;
+namespace ShoppingApi;
 
 use function GuzzleHttp\Psr7\str;
-use Cstopery\EasyTaoKe\TaoBao\Application as TaoBao;
-use Cstopery\EasyTaoKe\PinDuoDuo\Application as PinDuoDuo;
-use Cstopery\EasyTaoKe\JingDong\Application as JingDong;
+use ShoppingApi\TaoBao\Application as TaoBao;
+use ShoppingApi\PinDuoDuo\Application as PinDuoDuo;
+use ShoppingApi\JingDong\Application as JingDong;
 
 /**
  * Class Factory.

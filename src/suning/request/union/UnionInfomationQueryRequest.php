@@ -6,9 +6,9 @@
  * @date   2015-10-28
  */
 
-namespace Cstopery\EasyTaoKe\SuNing\Request\Union;
+namespace ShoppingApi\SuNing\Request\Union;
 
-use Cstopery\EasyTaoKe\SuNing\SelectSuningRequest;
+use ShoppingApi\SuNing\SelectSuningRequest;
 
 class UnionInfomationQueryRequest extends SelectSuningRequest
 {

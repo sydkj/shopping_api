@@ -6,7 +6,7 @@
  * Time: 15:54
  */
 
-namespace Cstopery\EasyTaoKe\JingDong;
+namespace ShoppingApi\JingDong;
 
 
 interface RequestInterface

@@ -1,7 +1,7 @@
 <?php
-namespace Cstopery\EasyTaoKe\PinDuoDuo\Request;
+namespace ShoppingApi\PinDuoDuo\Request;
 
-use Cstopery\EasyTaoKe\PinDuoDuo\RequestInterface;
+use ShoppingApi\PinDuoDuo\RequestInterface;
 
 
 class DdkCateListRequest implements  RequestInterface

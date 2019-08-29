@@ -1,6 +1,6 @@
 <?php
 
-namespace Cstopery\EasyTaoKe\PinDuoDuo;
+namespace ShoppingApi\PinDuoDuo;
 
 
 class Application

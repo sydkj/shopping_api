@@ -1,12 +1,12 @@
 <?php
-namespace Cstopery\EasyTaoKe\TaoBao\Request;
+namespace ShoppingApi\TaoBao\Request;
 /**
  * TOP API: taobao.tbk.tpwd.convert request
  * 
  * @author auto create
  * @since 1.0, 2018.08.31
  */
-use Cstopery\EasyTaoKe\TaoBao\RequestCheckUtil;
+use ShoppingApi\TaoBao\RequestCheckUtil;
 class TbkTpwdConvertRequest
 {
 	/** 
